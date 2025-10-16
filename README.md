@@ -109,6 +109,5 @@ Data Cleaning & Modeling: Power Query Editor
 
 -> 📸 You can see a snapshot of the dashboard here: 
 
-Trend Analysis Charts
-
-Comparative Performance Visualization
+-> HOME PAGE : https://github.com/Kunal-rajore/Pizza-Sales-Analysis/blob/main/HOME%20PAGE.png
+-> BEST VS WROST PAGE : https://github.com/Kunal-rajore/Pizza-Sales-Analysis/blob/main/BEST%20VS%20WROST%20PAGE.png
